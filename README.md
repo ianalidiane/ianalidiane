@@ -1,5 +1,5 @@
 - Olá sou estudande da Univerdade Estácio de Sá, faço cursos do Curso em video e Rocketseat!
-- Como estou no inicio conheço Python e Java!
+- Estou no inicio, tenho breve conhecimento de Python e Java!
 - Estou usando a plataforma pra testar meus conhecimentos em HTML E CSS 
 .
 
