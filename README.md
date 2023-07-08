@@ -1,6 +1,6 @@
-- Olá sou estudande da Univerdade Estácio de Sá, faço cursos do Curso em video e Rocketseat!
+- Olá! Em aprendizado na área, faço cursos do Curso em video e Rocketseat!
 - Estou no inicio, tenho breve conhecimento de Python e Java!
-- Estou usando a plataforma pra testar meus conhecimentos em HTML E CSS 
+- Estou usando a plataforma pra testar meus conhecimentos em HTML E CSS. 
 .
 
 <!---
