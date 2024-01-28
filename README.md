@@ -1,5 +1,5 @@
-- Olá! Em aprendizado na área, faço cursos do Curso em video e Rocketseat!
-- Estou no inicio, tenho breve conhecimento de Python e Java!
+- Olá! Em aprendizado na área.
+- Estou no inicio, tenho conhecimento de Python e Java!
 - Estou usando a plataforma pra testar meus conhecimentos em HTML E CSS. 
 .
 
